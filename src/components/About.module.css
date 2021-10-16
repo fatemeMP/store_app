@@ -1,0 +1,16 @@
+.container h2{
+    color: gray;
+    
+}
+
+.container{
+    margin: 20PX;
+    text-align:center;
+    min-height: 100vh;
+}
+
+.container h1{
+    color: rgb(91, 91, 245);
+  
+}
+

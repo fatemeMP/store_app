@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  position: relative;
+}
+
+.container img {
+  width: 100%;
+}
+
+.textContainer {
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+
+.textContainer h1 {
+  color: #696969;
+  size: 8rem;
+}
+
+.textContainer span {
+  color: darkturquoise;
+  font-weight: bold;
+  size: 4rem;
+}

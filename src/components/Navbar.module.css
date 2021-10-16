@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(87, 100, 100);
+  align-items: center;
+  padding: 0px 50px;
+  border-radius: 0px 0px 5px 5px;
+}
+
+.logo {
+  width: 50px;
+  border-radius: 50%;
+  padding: 5px 0px;
+  margin:auto;
+}
+
+.list  {
+  display: flex;
+  list-style: none;
+}
+
+
+.list li a {
+  padding: 15px;
+  color: #cec3c3;
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.list li a:hover {
+  color: #fff;
+  transition: all ease 0.2s;
+}
